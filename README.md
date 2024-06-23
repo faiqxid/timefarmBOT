@@ -2,8 +2,10 @@
 # TimeFarm Bot
 
 ## HOW TO USE
+daftar terlebih dahulu di bot tele nya klik link ini untuk mendaftar: [https://t.me/TimeFarmCryptoBot](https://t.me/TimeFarmCryptoBot?start=XDOLh58S6bdSoV7L)
 
 siapkan dulu file txt yg berisi query id
+
 support multi akun
 
 ```bash
