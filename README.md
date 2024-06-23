@@ -27,4 +27,5 @@ pip install requests
 python timefarm.py
 ```
 ## CONTOH
-![image](https://github.com/faiqxid/timefarmBOT/assets/54805607/f17d6a02-2d6f-4ec4-a629-a28eb1ad7873)
+![image](https://github.com/faiqxid/timefarmBOT/assets/54805607/de620966-0498-46ba-bc66-b0cccb23e6b4)
+
