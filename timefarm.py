@@ -58,7 +58,7 @@ def worker(query_id, account_number):
                 coins = response_data['balance']
                 print(f'Account {account_number}: Your Coins {coins}')
                 time.sleep(5)
-                rand_delay = random.randint(180, 200)
+                rand_delay = random.randint(240, 260)
                 delay = rand_delay * 60
                 for i in range(delay, 0, -1):
                     minutes, seconds = divmod(i, 60)
@@ -70,7 +70,7 @@ def worker(query_id, account_number):
                 message = response_data['error']['message']
                 if 'Too early to finish farming' in message:
                     print(f'Account {account_number}: {message}')
-                    rand_delay = random.randint(180, 200)
+                    rand_delay = random.randint(240, 260)
                     delay = rand_delay * 60
                     for i in range(delay, 0, -1):
                         minutes, seconds = divmod(i, 60)
